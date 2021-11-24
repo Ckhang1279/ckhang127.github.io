@@ -138,7 +138,7 @@ $(document).ready(function () {
           text: textConfig.text11,
           confirmButtonColor: "#83d0c9",
           onClose: () => {
-            window.location = "http://facebook.com/chi.bo.1729";
+            window.location = "http://facebook.com/";
           },
         });
       }
